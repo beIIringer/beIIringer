@@ -3,4 +3,4 @@
 [![Employee ID, redacted.](https://media.discordapp.net/attachments/1149828716013301942/1149829868385751131/image.png)](#)
 [![Suit Name, Bellringer.](https://media.discordapp.net/attachments/1149828716013301942/1149830125840519210/image.png)](#)
 [![Tumblr, phone dash guy. Highlighted and underlined in blurple to indicate it is a clickable link.](https://media.discordapp.net/attachments/1149828716013301942/1149830738640916480/image.png)](https://phone-guy.tumblr.com)
-<code style="color : blue">READ MY SNTRY</code>
+><sup>$\color{blue}READ \space MY \space SNTRY$</sup>

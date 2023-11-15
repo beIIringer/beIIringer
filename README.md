@@ -1,7 +1,7 @@
 
 <sup>$$\color{blue}aqua \space imum \space \space est \space silentiōsum.$$</sup>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://media.discordapp.net/attachments/1149828716013301942/1174256695996854314/water_dark.gif">
-  <source media="(prefers-color-scheme: light)" srcset="https://media.discordapp.net/attachments/1149828716013301942/1174256696370139206/water_bright.gif">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/beIIringer/beIIringer/blob/main/assets/water%20dark.gif">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/beIIringer/beIIringer/blob/main/assets/water%20bright.gif">
 </picture>
 

@@ -1,7 +1,7 @@
-![spacer](https://github.com/beIIringer/beIIringer/assets/141309476/7f2de2a0-89d9-4db1-a3bd-40fcbd1440bb)
 ![spacer](https://github.com/beIIringer/beIIringer/assets/141309476/7f2de2a0-89d9-4db1-a3bd-40fcbd1440bb)![emblem](https://github.com/beIIringer/beIIringer/assets/141309476/bdc0fae5-c970-4a87-bee2-b9c687ce1e85)
 
 ![spacer](https://github.com/beIIringer/beIIringer/assets/141309476/7f2de2a0-89d9-4db1-a3bd-40fcbd1440bb)![spaceramb](https://github.com/beIIringer/beIIringer/assets/141309476/b899e87a-b485-4a20-b5ff-4ec748f72095)![spaceramb](https://github.com/beIIringer/beIIringer/assets/141309476/b899e87a-b485-4a20-b5ff-4ec748f72095)<sup>read my [sntry.](https://sntry.cc/sanguivoria)</sup>
+
 <sup>$$\color{blue}aqua \space imum \space \space est \space silentiōsum.$$</sup>
 
 ![spacer](https://github.com/beIIringer/beIIringer/assets/141309476/7f2de2a0-89d9-4db1-a3bd-40fcbd1440bb)

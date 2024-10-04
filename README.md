@@ -2,7 +2,7 @@
 
 ![spacer](https://github.com/beIIringer/beIIringer/assets/141309476/7f2de2a0-89d9-4db1-a3bd-40fcbd1440bb)![spaceramb](https://github.com/beIIringer/beIIringer/assets/141309476/b899e87a-b485-4a20-b5ff-4ec748f72095)<sup>read my [neocities.](https://bellringer.neocities.org)</sup>
 
-![spacer](https://github.com/beIIringer/beIIringer/assets/141309476/7f2de2a0-89d9-4db1-a3bd-40fcbd1440bb)<sup>18 ; he/him</sup>
+![spacer](https://github.com/beIIringer/beIIringer/assets/141309476/7f2de2a0-89d9-4db1-a3bd-40fcbd1440bb)![spaceramb](https://github.com/beIIringer/beIIringer/assets/141309476/b899e87a-b485-4a20-b5ff-4ec748f72095)<sup>18 ; he/him</sup>
 
 <sup>$$\color{blue}aqua \space imum \space \space est \space silentiōsum.$$</sup>
 
